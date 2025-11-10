@@ -13,6 +13,12 @@
   color: white;
 }
 
+.list {
+  padding: 20px;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
